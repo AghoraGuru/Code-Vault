@@ -28,7 +28,7 @@ public class RockPaperScissor {
             """;
 
     public static final String SCISSOR = """
-                SCISSOR
+                SCISSORS
                 _________
             ____'      ____)____
                           _______)
